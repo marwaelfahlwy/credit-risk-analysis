@@ -17,7 +17,6 @@ End-to-end data analytics project on **32,409 loans**: data cleaning in **Power 
 ## Dataset
 
 - Loan-level data: 32,581 rows and 12 columns (borrower age, income, home ownership, employment length, loan grade, amount, interest rate, loan-to-income, prior default, credit history length, and the target `loan_status`).
-- Source: [add the link you downloaded it from]
 - **Note:** the data shows strong signs of being synthetic (see Limitations), so the results illustrate the method rather than real market behaviour.
 
 ## Tools
@@ -102,4 +101,6 @@ credit-risk-analysis/
 
 ## Author
 
-[Your name] · [LinkedIn link] · [Email]
+ Marwa Elfahlwy · www.linkedin.com/in/marwa-elfahlwy
+
+ · marwaelfahlwy@gmail.com
